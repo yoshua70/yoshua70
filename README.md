@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React and React Native with Expo
+
 <!--
 **yoshua70/yoshua70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
