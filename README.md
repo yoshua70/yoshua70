@@ -1,4 +1,6 @@
-I'm an engineer, making his way through the web.
+# Wake up to reality...
+
+Michée Allidjinou, a Computer Science Engineering student making his way through the Internet.
 
 <!--
 **yoshua70/yoshua70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
